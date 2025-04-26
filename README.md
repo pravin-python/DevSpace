@@ -25,10 +25,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/pravin260703/DevSpace.git
 
 # 2. Navigate to the project directory
-cd your-project
+cd DevSpace
 
 # 3. Create a virtual environment
 python -m venv env
