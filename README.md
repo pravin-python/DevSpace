@@ -16,7 +16,7 @@ It showcases my skills in Python, Machine Learning (ML), Artificial Intelligence
 
 - **Frontend**: Tailwind CSS, Alpine.js
 - **Backend**: Django
-- **Database**: SQLite (default, can be upgraded to PostgreSQL/MySQL)
+- **Database**: PostgreSQL (default, can be upgraded to MongoDB/MySQL)
 - **Deployment Ready**: Can be hosted on platforms like Vercel, Render, or AWS.
 
 ## 📁 Project Setup
