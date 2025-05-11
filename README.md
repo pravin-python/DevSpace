@@ -25,7 +25,11 @@ Follow these steps to run the project locally:
 	
 ```bash
 # 1. Clone the repository
+<<<<<<< HEAD
 git clone https://github.com/pravin-python/DevSpace/
+=======
+git clone https://github.com/pravin-python/DevSpace.git
+>>>>>>> 62972a9334dd888fa0401544bdc936def4ff3ed3
 
 # 2. Navigate to the project directory
 cd DevSpace
