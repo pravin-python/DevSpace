@@ -22,10 +22,10 @@ It showcases my skills in Python, Machine Learning (ML), Artificial Intelligence
 ## 📁 Project Setup
 
 Follow these steps to run the project locally:
-
+	
 ```bash
 # 1. Clone the repository
-git clone https://github.com/pravin260703/DevSpace.git
+git clone https://github.com/pravin-python/DevSpace/
 
 # 2. Navigate to the project directory
 cd DevSpace
